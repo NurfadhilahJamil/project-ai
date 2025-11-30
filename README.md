@@ -1,2 +1,2 @@
 # project-ai
-Project AI : Projek untuk latihan GitHub dan eksperimen AI
+Branch feature 2 menambah fungsi B
